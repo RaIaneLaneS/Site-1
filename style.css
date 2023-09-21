@@ -1,0 +1,14 @@
+body{
+    text-align-last: center;
+    color: rgb(0, 0, 0);
+    background-color: rgb(250, 204, 204);
+}
+
+.titulo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
+    color: rgb(59, 57, 57);
+}
+
+.subtitulo {
+    font-family: Arial, Helvetica,
+}
